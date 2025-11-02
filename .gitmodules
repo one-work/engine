@@ -128,18 +128,17 @@
   update = rebase
 [submodule "rails_bluetooth"]
   path = rails_bluetooth
-  url = git@github.com:one-work/rails_bluetooth
+  url = git@github.com:one-work/rails_bluetooth.git
   update = rebase
 [submodule "rails_print"]
   path = rails_print
   url = git@github.com:one-work/rails_print.git
   update = rebase
-  fetchRecurseSubmodules = true
 [submodule "rails_alipay"]
   path = rails_alipay
   url = git@github.com:one-work/rails_alipay.git
   update = rebase
 [submodule "rails_one_ai"]
-	path = rails_one_ai
-	url = git@github.com:one-work/rails_one_ai.git
+  path = rails_one_ai
+  url = git@github.com:one-work/rails_one_ai.git
   update = rebase
