@@ -139,7 +139,7 @@
   path = rails_alipay
   url = git@github.com:one-work/rails_alipay.git
   update = rebase
-[submodule "rails_kimi"]
-  path = rails_kimi
-  url = git@github.com:one-work/rails_kimi.git
+[submodule "rails_one_ai"]
+  path = rails_one_ai
+  url = git@github.com:one-work/rails_one_ai.git
   update = rebase
