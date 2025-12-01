@@ -126,10 +126,6 @@
   path = rails_space
   url = git@github.com:one-work/rails_space.git
   update = rebase
-[submodule "rails_bluetooth"]
-  path = rails_bluetooth
-  url = git@github.com:one-work/rails_bluetooth.git
-  update = rebase
 [submodule "rails_print"]
   path = rails_print
   url = git@github.com:one-work/rails_print.git
