@@ -132,3 +132,6 @@
 [submodule "rails_com"]
 	path = rails_com
 	url = git@github.com:one-work/rails_com.git
+[submodule "rails_auth"]
+	path = rails_auth
+	url = git@github.com:one-work/rails_auth.git
