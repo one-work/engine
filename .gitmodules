@@ -134,3 +134,6 @@
   path = rails_one_ai
   url = git@github.com:one-work/rails_one_ai.git
   update = rebase
+[submodule "rails_ui"]
+	path = rails_ui
+	url = git@github.com:one-work/rails_ui.git
