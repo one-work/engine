@@ -30,10 +30,6 @@
   path = rails_data
   url = git@github.com:one-work/rails_data.git
   update = rebase
-[submodule "rails_design"]
-  path = rails_design
-  url = git@github.com:one-work/rails_design.git
-  update = rebase
 [submodule "rails_detail"]
   path = rails_detail
   url = git@github.com:one-work/rails_detail.git
