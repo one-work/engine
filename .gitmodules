@@ -18,10 +18,6 @@
   path = rails_cms
   url = git@github.com:one-work/rails_cms.git
   update = rebase
-[submodule "rails_com"]
-  path = rails_com
-  url = git@github.com:one-work/rails_com.git
-  update = rebase
 [submodule "rails_crm"]
   path = rails_crm
   url = git@github.com:one-work/rails_crm.git
